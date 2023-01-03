@@ -20,6 +20,4 @@ Esta es una landing page simple creada con HTML y CSS. Se ha diseñado para pres
 
 ## Créditos
 
-Este proyecto fue creado por Gustavo Rañieski. Me inspiré en FreeCodeCamp para crear la página.
-
-Espero que esto te sea de ayuda. ¡Házme saber si tienes más preguntas!
+Este proyecto fue creado por Gustavo Rañieski. Me inspiré en las prácticas de FreeCodeCamp para crear la página.
